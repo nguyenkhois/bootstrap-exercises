@@ -1,0 +1,17 @@
+div[class^="col-"] {
+    border: 1px solid black;
+    height: 200px;
+}
+
+div[class^="row"] {
+    border: 1px solid black;
+    height: 200px;
+}
+
+
+div[class^="col-xs-12"] {
+    height: 200px;
+}
+div[class^="col-"] {
+    border: 1px solid black;
+}
