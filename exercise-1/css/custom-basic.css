@@ -1,17 +1,9 @@
 div[class^="col-"] {
     border: 1px solid black;
-    height: 200px;
+    height: 50px;
 }
 
-div[class^="row"] {
-    border: 1px solid black;
-    height: 200px;
-}
-
-
-div[class^="col-xs-12"] {
-    height: 200px;
-}
-div[class^="col-"] {
-    border: 1px solid black;
-}
+#row1-col1{background: #5bc0de;}
+#row1-col2{background: #d0e9c6;}
+#row2-col1{background: #f0ad4e;}
+#row2-col2{background: #f0e68c;}
