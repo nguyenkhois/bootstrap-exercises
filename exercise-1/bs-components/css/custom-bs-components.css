@@ -1,0 +1,12 @@
+h3{
+    margin-top: 100px;
+}
+
+div[class^="panel panel-"]{
+    width: 300px;
+    display: inline-block;
+}
+
+div[class^="btn btn-"]{
+    display: inline-block;
+}

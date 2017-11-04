@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- only for test -->
+    <meta http-equiv="refresh" content="1">
+
+    <meta charset="UTF-8">
+    <title>Bootstrap - Responsive Ultilites</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<!-- Only for test -->
+<div class="text-info">
+    <div class="hidden-sm hidden-md hidden-lg">This is xs screen</div>
+    <div class="hidden-xs hidden-md hidden-lg">This is sm screen</div>
+    <div class="hidden-xs hidden-sm hidden-lg">This is md screen</div>
+    <div class="hidden-xs hidden-sm hidden-md">This is lg screen</div>
+</div>
+
+<h1>1</h1>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xs-6 text-center text-success">
+            <h3 class="hidden-sm hidden-md hidden-lg">Heading column 1 with h3</h3>
+            <h1 class="hidden-xs">Heading h1</h1>
+            <p></p>
+        </div>
+        <div class="col-xs-6 text-center text-danger">
+            <h3 class="hidden-sm hidden-md hidden-lg">Heading column 2 with h3</h3>
+            <h1 class="hidden-xs">Heading with h1</h1>
+            <p></p>
+        </div>
+    </div>
+</div>
+
+<h1>2</h1>
+<div class="container">
+    <div class="row">
+        <!-- Only view on XS screen -->
+        <div class="col-xs-12 hidden-sm hidden-md hidden-lg bg-info">one column 12/12 on xs view</div>
+
+        <!-- Only view on SM screen -->
+        <div class="col-sm-6 hidden-xs hidden-md hidden-lg bg-info">two columns on sm view</div>
+        <div class="col-sm-6 hidden-xs hidden-md hidden-lg bg-primary">two columns on sm view</div>
+
+        <!-- Only view on MD screen -->
+        <div class="col-md-4 hidden-xs hidden-sm hidden-lg bg-info">three columns on md view</div>
+        <div class="col-md-4 hidden-xs hidden-sm hidden-lg bg-primary">three columns on md view</div>
+        <div class="col-md-4 hidden-xs hidden-sm hidden-lg bg-success">three columns on md view</div>
+
+        <!-- Only view on LG screen -->
+        <div class="col-lg-3 hidden-xs hidden-sm hidden-md bg-info">four columns on lg view</div>
+        <div class="col-lg-3 hidden-xs hidden-sm hidden-md bg-primary">four columns on lg view</div>
+        <div class="col-lg-3 hidden-xs hidden-sm hidden-md bg-success">four columns on lg view</div>
+        <div class="col-lg-3 hidden-xs hidden-sm hidden-md bg-warning">four columns on lg view</div>
+
+    </div>
+</div>
+
+<h1>3</h1>
+<div class="container" style="background:#74c6ff;">
+
+    <div class="row" style="background: #7bffcb;">
+        something
+    </div>
+
+
+</div>
+
+</body>
+</html>

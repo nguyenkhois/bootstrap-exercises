@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf7809d2-a687-47c3-aef9-bb0eb7b7ab88" name="Default" comment="Update exercises">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/nguye.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/templateLanguages.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-components/bs-components-breadcrumbs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-components/bs-components-buttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-components/bs-components-jumbotron.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-components/bs-components-nav-bars.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-components/bs-components-navs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-components/bs-components-panels.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/forms-and-inputs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/helper-classes-and-typography.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/images-responsive.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/images/christmas-1911637_640.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/images/leopard-2895448_640.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/images/seemed-2823949_1280.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/images/spices-2548653_640.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/images/waffle-heart-2697904_1280.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/responsive-ultilites.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise-1/bs-css/tables.html" />
+      <change beforePath="$PROJECT_DIR$/exercise-1/bs-components/bs-components-glyphicons.html" afterPath="$PROJECT_DIR$/exercise-1/bs-components/bs-components-glyphicons.html" />
+      <change beforePath="$PROJECT_DIR$/exercise-1/bs-components/css/custom-bs-components.css" afterPath="$PROJECT_DIR$/exercise-1/bs-components/css/custom-bs-components.css" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="tables.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/tables.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="HTML for Bootstrap 3" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.success</find>
+      <find>table-striped</find>
+      <find>.table-striped</find>
+      <find>table</find>
+      <find>table-con</find>
+      <find>table-condensed</find>
+      <find>warning</find>
+      <find>.warning</find>
+      <find>modified</find>
+      <find>condensed</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/exercise-1/index.html" />
+        <option value="$PROJECT_DIR$/grid-system-basics.html" />
+        <option value="$PROJECT_DIR$/exercise-1/css/custom-stylesheets.css" />
+        <option value="$PROJECT_DIR$/exercise-1/css/custom-reset.css" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-advanced-reset.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basics.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-advanced-offset.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-advanced-push-pull.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic-1.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic-2.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic-3.html" />
+        <option value="$PROJECT_DIR$/exercise-1/css/custom-stylesheet.css" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic-1-2.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic-1-3.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic-2-1.html" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic-2-2.html" />
+        <option value="$PROJECT_DIR$/exercise-1/css/custom-nesting.css" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-advanced-nesting.html" />
+        <option value="$PROJECT_DIR$/exercise-1/css/custom-basic.css" />
+        <option value="$PROJECT_DIR$/exercise-1/grid-system-basic-1-1.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bootstrap-components/bs-components.css" />
+        <option value="$PROJECT_DIR$/exercise-1/bootstrap-components/css/custom-bs-components.css" />
+        <option value="$PROJECT_DIR$/exercise-1/bootstrap-components/bs-components-glyphicons.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components/bs-components-glyphicons.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components/bs-components-navs.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components-nav-bars.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components/bs-components-nav-bars.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components/bs-components-breadcrumbs.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components/bs-components-panels.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components/bs-components-buttons.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components/css/custom-bs-components.css" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-components/bs-components-jumbotron.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-basic-1-1.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/forms-and-inputs.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/images-responsive.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/helper-classes-and-typography.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/test.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/responsive-ultilites.html" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/css/tricks-bootstraap3.css" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/css/tricks-bootstrap3.css" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/exercise-1/bs-css/tables.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CSS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bootstrap-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bootstrap-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise-1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercise-1/css/bootstrap-theme.min.css" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.selected.package.stylelint" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\Documents\EC Utbildning\EC Works\bootstrap-exercises\exercise-1" />
+      <recent name="C:\Users\nguye\Documents\EC Utbildning\EC Works\bootstrap-exercises\exercise-1\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nguye\Documents\EC Utbildning\EC Works\bootstrap-exercises\exercise-1\bs-components" />
+      <recent name="C:\Users\nguye\Documents\EC Utbildning\EC Works\bootstrap-exercises\exercise-1\bs-grid-system\css" />
+      <recent name="C:\Users\nguye\Documents\EC Utbildning\EC Works\bootstrap-exercises\exercise-1\bs-grid-system" />
+      <recent name="C:\Users\nguye\Documents\EC Utbildning\EC Works\bootstrap-exercises\exercise-1\bootstrap-components\css" />
+      <recent name="C:\Users\nguye\Documents\EC Utbildning\EC Works\bootstrap-exercises\exercise-1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="helper-classes-and-typography.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/bootstrap-exercises/exercise-1/bs-css/helper-classes-and-typography.html" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.helper-classes-and-typography.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf7809d2-a687-47c3-aef9-bb0eb7b7ab88" name="Default" comment="" />
+      <created>1509353897652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509353897652</updated>
+      <workItem from="1509353900671" duration="2563000" />
+      <workItem from="1509356852357" duration="5960000" />
+      <workItem from="1509365833931" duration="5957000" />
+      <workItem from="1509433066011" duration="204000" />
+      <workItem from="1509435729286" duration="13487000" />
+      <workItem from="1509457215925" duration="5000" />
+      <workItem from="1509457224310" duration="111000" />
+      <workItem from="1509526627562" duration="1275000" />
+      <workItem from="1509535731325" duration="631000" />
+      <workItem from="1509608424203" duration="1247000" />
+      <workItem from="1509609695346" duration="140000" />
+      <workItem from="1509609858431" duration="1912000" />
+      <workItem from="1509612404732" duration="95000" />
+      <workItem from="1509612517118" duration="46000" />
+      <workItem from="1509612584337" duration="5289000" />
+      <workItem from="1509617924817" duration="134000" />
+      <workItem from="1509618153941" duration="4284000" />
+      <workItem from="1509624664357" duration="1291000" />
+      <workItem from="1509628792325" duration="110000" />
+      <workItem from="1509681382877" duration="65000" />
+      <workItem from="1509683121542" duration="3374000" />
+      <workItem from="1509686532909" duration="2615000" />
+      <workItem from="1509706011476" duration="1437000" />
+      <workItem from="1509709415566" duration="129000" />
+      <workItem from="1509709765111" duration="3336000" />
+      <workItem from="1509714086921" duration="34000" />
+      <workItem from="1509787353989" duration="867000" />
+      <workItem from="1509788243893" duration="3366000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create first exercise">
+      <created>1509354583727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509354583727</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Create first exercise">
+      <created>1509354787370</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509354787370</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update exercise 1">
+      <created>1509361996692</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509361996692</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update exercise 1">
+      <created>1509367087604</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509367087604</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update exercise 1">
+      <created>1509369834423</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509369834423</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update exercise 1">
+      <created>1509370217925</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1509370217925</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update exercise 1">
+      <created>1509371780966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1509371780966</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update exercises">
+      <created>1509437146893</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1509437146893</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update exercises">
+      <created>1509437205399</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1509437205399</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="59964000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16741072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40434784" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create first exercise" />
+    <MESSAGE value="Update exercise 1" />
+    <MESSAGE value="Update exercises" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update exercises" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-basic-1-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-advanced-push-pull.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/grid-system-basics.html" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/index.html" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/css/custom-offset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/css/custom-stylesheets.css" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-advanced-offset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-advanced-reset.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="20" column="96" lean-forward="false" selection-start-line="20" selection-start-column="96" selection-end-line="20" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/css/custom-push-pull.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-advanced-push-pull.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/grid-system-basics.html" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/grid-system-basic-1.html" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/grid-system-basic-3.html" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/grid-system-basic-2.html" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-basic-2-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="32" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-basic-2-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-basic-1-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-basic-1-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="60" lean-forward="false" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-advanced-nesting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/css/custom-nesting.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/css/custom-basic.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bootstrap-components/css/bs-components.css" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/bootstrap-components/css/custom-bs-components.css" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/css/bootstrap.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bootstrap-components/bs-components-glyphicons.html" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-components/bs-components-glyphicons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-components/bs-components-breadcrumbs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/css/custom-reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/css/custom-stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-components/bs-components-panels.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="55" column="24" lean-forward="false" selection-start-line="55" selection-start-column="24" selection-end-line="55" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-components/css/custom-bs-components.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-components/bs-components-nav-bars.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-components/bs-components-navs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-components/bs-components-buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="45" lean-forward="true" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-components/bs-components-jumbotron.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="4" column="30761" lean-forward="false" selection-start-line="4" selection-start-column="30748" selection-end-line="4" selection-end-column="30761" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-grid-system/grid-system-basic-1-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/forms-and-inputs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/images-responsive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/helper-classes-and-typography.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="57" column="6" lean-forward="true" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/test.html" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/responsive-ultilites.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/css/tricks-bootstraap3.css" />
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="4" column="30263" lean-forward="false" selection-start-line="4" selection-start-column="30254" selection-end-line="4" selection-end-column="30263" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/css/tricks-bootstrap3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4293">
+          <caret line="158" column="18" lean-forward="true" selection-start-line="158" selection-start-column="18" selection-end-line="158" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63720">
+          <caret line="2297" column="16" lean-forward="false" selection-start-line="2297" selection-start-column="7" selection-end-line="2297" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram/C:/Users/nguye/Documents/EC Utbildning/EC Works/bootstrap-exercises/exercise-1/bs-css/css">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/exercise-1/bs-css/css</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="559.5" y="323.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63018">
+          <caret line="2319" column="0" lean-forward="false" selection-start-line="2319" selection-start-column="0" selection-end-line="2319" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise-1/bs-css/tables.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="19" lean-forward="false" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
