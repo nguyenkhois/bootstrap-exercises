@@ -13,7 +13,7 @@
 <body>
 
 <h1>1. normal form</h1>
-<form action="">
+<form action="" role="form">
     <div class="form-group">
         <label for="firstname">Firstname</label>
         <input type="text" id="firstname" class="form-control">
@@ -31,34 +31,64 @@
 </form>
 
 <h1>2. ".form-inline"</h1>
-
-    <form role="form">
-        <div class="form-inline">
-            <div class="form-group">
-                <label for="firstname2">Firstname</label>
-                <input type="text" id="firstname2" class="form-control">
-            </div>
-            <div class="form-group">
-                <label for="lastname2">Lastname</label>
-                <input type="text" id="lastname2" class="form-control">
-            </div>
-            <div class="form-group">
-                <label for="age">Age</label>
-                <input type="text" id="age" class="form-control">
-            </div>
-            <div class="form-group">
-                <label for="gender">Gender</label>
-                <input type="text" id="gender" class="form-control">
-            </div>
-        </div>
-
+<form role="form">
+    <div class="form-inline">
         <div class="form-group">
-            <label for="comment2">Comment</label>
-            <textarea name="comment2" id="comment2" class="form-control"></textarea>
+            <label for="firstname2">Firstname</label>
+            <input type="text" id="firstname2" class="form-control">
         </div>
+        <div class="form-group">
+            <label for="lastname2">Lastname</label>
+            <input type="text" id="lastname2" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="age">Age</label>
+            <input type="text" id="age" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="gender">Gender</label>
+            <input type="text" id="gender" class="form-control">
+        </div>
+    </div>
 
-        <button type="submit" class="btn btn-success">Submit form</button>
-    </form>
+    <div class="form-group">
+        <label for="comment2">Comment</label>
+        <textarea name="comment2" id="comment2" class="form-control"></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-success">Submit form</button>
+</form>
+
+<h1>3. Column with offset</h1>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-6 col-sm-offset-3">
+            <form action="" role="form">
+                <div class="form-group">
+                    <label for="firstname3">Firstname</label>
+                    <input type="text" id="firstname3" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="lastname3">Lastname</label>
+                    <input type="text" id="lastname3" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="email3">Email</label>
+                    <div class="input-group">
+                        <input type="email" id="email3" class="form-control" placeholder="Your email">
+                        <span class="input-group-addon">@example.com</span>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="comment3">Comment</label>
+                    <textarea name="comment3" id="comment3" class="form-control"></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Submit form</button>
+            </form>
+        </div>
+    </div>
+</div>
+
 
 
 
