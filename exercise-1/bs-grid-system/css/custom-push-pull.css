@@ -1,17 +1,15 @@
 div[class^="col-"] {
     border: 1px solid black;
-    height: 200px;
+    height: 150px;
 }
 
-div[class^="row"] {
+div[class="row"] {
     border: 1px solid black;
-    height: 200px;
+    height: 150px;
 }
 
-
-div[class^="col-xs-12"] {
-    height: 200px;
-}
-div[class^="col-"] {
-    border: 1px solid black;
-}
+/*set color to columns*/
+div[class^="col-"]:first-child{background: #ce8483;}
+div[class^="col-"]:nth-child(2){background: #9d9d9d;}
+div[class^="col-"]:nth-child(3){background: #c1e2b3;}
+div[class^="col-"]:last-child{background:#1b6d85;}

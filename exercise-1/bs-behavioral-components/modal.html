@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bootstrap - Modal</title>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/bootstrap-theme.min.css">
+    <script src="../js/jquery-3.2.1.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<h1>1. Exercise 1</h1>
+<div class="container">
+    <textarea name="" id="" rows="25" class="form-control" readonly>
+        Gingerbread cupcake gummies sweet caramels cheesecake. Chocolate gingerbread jelly beans gummi bears marshmallow biscuit muffin. Toffee tart gummies sugar plum. Tiramisu jelly-o fruitcake. Muffin candy canes croissant. Sweet jelly-o muffin gummi bears fruitcake pudding candy. Danish macaroon cotton candy tootsie roll cotton candy. Biscuit oat cake tootsie roll macaroon tootsie roll dessert marshmallow dragée chocolate cake. Oat cake gummies cake sesame snaps jelly-o muffin chupa chups. Candy canes caramels cake lollipop. Lollipop danish cheesecake cupcake lemon drops cake. Sugar plum chupa chups gingerbread tiramisu bear claw candy canes chupa chups sesame snaps. Sugar plum sugar plum sesame snaps jelly brownie powder. Danish sweet cookie jelly sesame snaps tart wafer.
+
+        Candy icing lollipop cotton candy. Pudding topping jujubes cake sweet roll icing. Pastry candy canes pie biscuit candy canes lemon drops donut jelly. Cake marshmallow pastry dragée dessert. Liquorice brownie soufflé chocolate cake sesame snaps dragée marshmallow candy canes. Ice cream bonbon bear claw soufflé sesame snaps pastry jelly-o. Croissant dragée soufflé tart tootsie roll bonbon jelly beans. Dragée sugar plum carrot cake oat cake tart tootsie roll cotton candy ice cream. Cupcake pudding chocolate muffin jujubes. Apple pie jelly sweet apple pie cotton candy cake jelly beans gummies topping. Caramels icing jelly beans cheesecake apple pie jelly beans tootsie roll chocolate bar. Halvah tiramisu icing gingerbread tiramisu liquorice. Chocolate cake croissant ice cream gummi bears carrot cake.
+
+        Chocolate bar croissant candy cake. Liquorice bonbon sesame snaps bonbon cotton candy topping powder wafer gingerbread. Candy canes toffee sweet toffee. Sugar plum jelly beans wafer gingerbread. Halvah cookie chocolate bar ice cream chocolate. Sweet roll icing donut soufflé ice cream tootsie roll cotton candy oat cake. Cotton candy donut muffin cotton candy donut fruitcake marshmallow icing lollipop. Cookie jelly beans bonbon chocolate bar muffin. Oat cake jelly soufflé apple pie. Sugar plum cake cupcake dessert lemon drops pastry. Pastry chocolate gummies donut croissant. Gummies chocolate bar tiramisu muffin pie lollipop.
+
+        Gummies cupcake marshmallow jelly beans chocolate jelly beans cake jelly-o. Bonbon candy sweet roll pastry tart. Wafer toffee fruitcake tart cotton candy lollipop cake. Bonbon oat cake toffee dessert. Lollipop marzipan bear claw. Gummies apple pie sesame snaps sugar plum liquorice fruitcake powder. Bear claw caramels sweet lollipop pie oat cake. Sugar plum icing cookie donut sugar plum tiramisu bear claw. Apple pie icing ice cream biscuit lollipop bear claw dragée cake brownie. Chocolate bar caramels jelly. Toffee carrot cake bear claw marshmallow lollipop pastry sweet. Danish brownie pastry. Danish sweet oat cake icing cheesecake pudding. Gingerbread oat cake candy candy pudding tootsie roll fruitcake jelly beans jujubes.
+    </textarea>
+
+    <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modalId">Save changes</button>
+
+    <div class="modal fade" id="modalId">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header"><p class="h4">Now you have to make a lite changing decision</p></div>
+                <div class="modal-body">Are you sure you want to save these changes?</div>
+                <div class="modal-footer">
+                    <button class="btn btn-danger" data-dismiss="modal">Absolutely NOT!</button>
+                    <button class="btn btn-success">Of course!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h1>2. Exercise 2</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-6 col-sm-3">
+            <img src="images/egg-sandwich-2761894_640.jpg" alt="" class="img-thumbnail img-responsive" data-toggle="modal" data-target="#image1">
+
+            <div class="modal fade" id="image1">
+                <div class="modal-dialog">
+                    <img src="images/egg-sandwich-2761894_640.jpg" alt="" class="img-responsive">
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-6 col-sm-3">
+            <img src="images/grapes-2715711_640.jpg" alt="" class="img-thumbnail img-responsive" data-toggle="modal" data-target="#image2">
+            <div class="modal fade" id="image2">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <img src="images/grapes-2715711_640.jpg" alt="" class="img-responsive">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-6 col-sm-3">
+            <img src="images/fruit-2305192_640.jpg" alt="" class="img-thumbnail img-responsive" data-toggle="modal" data-target="#image3">
+            <div class="modal fade" id="image3">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-body">
+                            <img src="images/fruit-2305192_640.jpg" alt="" class="img-responsive">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xs-6 col-sm-3">
+            <img src="images/cayenne-peppers-2779828_640.jpg" alt="" class="img-thumbnail img-responsive" data-toggle="modal" data-target="#image4">
+            <div class="modal fade" id="image4">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h4>
+                                Cayenne peppers
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                            </h4>
+                        </div>
+                        <div class="modal-body">
+                            <img src="images/cayenne-peppers-2779828_640.jpg" alt="" class="img-responsive">
+                        </div>
+                        <div class="modal-footer">
+                            <p class="text-info small pull-left">Photography by Johan</p>
+                            <button class="btn btn-success pull-right" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
