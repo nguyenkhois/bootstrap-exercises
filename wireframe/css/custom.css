@@ -1,0 +1,24 @@
+/* Test purpose */
+.test-background-color{background:#EEEEEE;}
+
+/* Custom styles */
+.container-full-width{margin: 0;padding: 0;width: 100%;}
+.spacing-bottom-0{margin-bottom: 0;}
+.spacing-around-0{margin: 0;}
+.spacing-in-0{padding: 0;}
+
+.full-width{width: 100%;}
+.border-default{border: solid 1px #000000;}
+
+
+/* Custom components */
+.footer{
+    width: 100%;
+    padding: 30px;
+    margin: 0;
+}
+.footer-default{
+    background-color: #f8f8f8;
+    border: 2px solid #e7e7e7;
+    border-radius: 5px;
+}

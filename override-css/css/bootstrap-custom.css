@@ -1,0 +1,9 @@
+/* bootstrap-custom.css */
+.btn-primary {
+    background-color: olive;
+    border-color: yellow;
+}
+
+.jumbotron{
+   background-color: lightpink;
+}
